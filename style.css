@@ -1,0 +1,71 @@
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+.map {
+    text-align: center;
+    height: 300px;
+    width: 500px;
+/*    display: block;*/
+    margin-left: 0px;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.video {
+    height: 500px;
+    width: 1680px;
+}
+
+#CampusLife {
+    text-align: center;
+}
+
+.library {
+    height: 350px;
+    width: 320px;
+    border: 5px solid #555;
+}
+
+.schoolauditorium {
+    height: 350px;
+    width: 325px;
+    border: 5px solid #555;
+}
+
+.schoolclassroom {
+    height: 350px;
+    width: 350px;
+    border: 5px solid #555;
+}
+
+.achievement_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.achievement_head i {
+    float: right;
+}
+
+.achievment_text span {
+    color: #ff7700;
+}
+
+#lunch {
+    border-radius: 10%;
+}
+
+#hallway {
+    border-radius: 10%;
+}
